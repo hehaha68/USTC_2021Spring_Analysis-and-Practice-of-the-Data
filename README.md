@@ -1,2 +1,13 @@
-# USTC_2021Spring_Analysis-and-Practice-of-the-Data
 USTC 2021春《数据分析及实践》课程资源
+
+实验内容：
+
+1. python练习。
+
+2. 爬虫。
+
+3. LoL比赛数据分析。
+
+4. Part1：**手动**实现一种分类算法（决策树、 KNN、朴素贝叶斯……）预测LoL比赛胜负；
+
+   Part2：数据科学实战。调库预测LoL比赛持续时间。
